@@ -17,7 +17,7 @@ Before coming to Stanford, I was an undergrad at Northwestern University majorin
 
 (1) Processing of syntactically "noisy" sentences in Mandarin Chinese (manuscript in prep, with Meilin Zhan and Ted Gibson)
 
-(2) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northerstern)
+(2) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northerstern: [poster at SNL2018](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf))
 
 
 ## Contact
