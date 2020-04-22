@@ -7,11 +7,11 @@ Before coming to Stanford, I was an undergrad at Northwestern University majorin
 ## Recent/On-going Research Projects
 ### Syntax and Processing of Island Constructions
 
-(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), English multiple-wh questions(Email for BA thesis)
+(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), [Extension to multiple-wh questions](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
 
 (2) Coordinate structure constraint and the syntax of coordination
 
-(3) Satiation of acceptability judgment 
+(3) Satiation of acceptability judgment (github repos: [1](https://github.com/lu-jiayi/Satiation_baseline), [2](https://github.com/lu-jiayi/satiation_exp1b_island_as_ungram), [3](https://github.com/lu-jiayi/satiation_exp1c_island_as_neutral))
 
 ### Sentence Processing in General
 
@@ -22,4 +22,4 @@ Before coming to Stanford, I was an undergrad at Northwestern University majorin
 
 ## Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+jiayi(dot)lu(at)stanford(dot)edu
