@@ -1,13 +1,15 @@
 ## About Me
 
-Hello! I am a first-year PhD student in linguistics at Stanford University. I am mostly interested in syntax and psycholinguistics.
+Hello! I am a first-year PhD student in linguistics at Stanford University. I am mostly interested in syntax and psycholinguistics. 
 
 Before coming to Stanford, I was an undergrad at Northwestern University majoring in Integrated Science, Neuroscience and Linguistics. 
+
+[cv](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2019/06/CV_for_freshers-4.pdf)
 
 ## Recent/On-going Research Projects
 ### Syntax and Processing of Island Constructions
 
-(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), [Extension to multiple-wh questions](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
+(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), [amlap2018 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf), [Extension to multiple-wh questions](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
 
 (2) Coordinate structure constraint and the syntax of coordination
 
