@@ -1,36 +1,21 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/lu-jiayi/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am a first-year PhD student in linguistics at Stanford University. I am mostly interested in syntax and psycholinguistics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before coming to Stanford, I was an undergrad at Northwestern University majoring in Integrated Science, Neuroscience and Linguistics. 
 
-### Markdown
+### Recent/On-going Research Projects
+## Syntax and Processing of Island Constructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(1) Argument/adjunct asymmetry in island-sensitivity ([case study in Chinese] (doi.org/10.1162/ling_a_00343), English multiple-wh questions: [BA thesis])
+(2) Coordinate structure constraint and the syntax of coordination
+(3) Satiation of acceptability judgment 
 
-```markdown
-Syntax highlighted code block
+## Sentence Processing in General
 
-# Header 1
-## Header 2
-### Header 3
+(1) Processing of syntactically "noisy" sentences in Mandarin Chinese (manuscript in prep, with Meilin Zhan and Ted Gibson)
+(2) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northerstern)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lu-jiayi/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
