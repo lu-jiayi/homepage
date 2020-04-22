@@ -7,13 +7,16 @@ Before coming to Stanford, I was an undergrad at Northwestern University majorin
 ## Recent/On-going Research Projects
 ### Syntax and Processing of Island Constructions
 
-(1) Argument/adjunct asymmetry in island-sensitivity ([case study in Chinese] (doi.org/10.1162/ling_a_00343), English multiple-wh questions: [BA thesis])
+(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), English multiple-wh questions(Email for BA thesis)
+
 (2) Coordinate structure constraint and the syntax of coordination
+
 (3) Satiation of acceptability judgment 
 
 ### Sentence Processing in General
 
 (1) Processing of syntactically "noisy" sentences in Mandarin Chinese (manuscript in prep, with Meilin Zhan and Ted Gibson)
+
 (2) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northerstern)
 
 
