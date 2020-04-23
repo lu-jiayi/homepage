@@ -4,8 +4,6 @@ Hello! I am a first-year PhD student in linguistics at Stanford University. I am
 
 Before coming to Stanford, I was an undergrad at Northwestern University majoring in Integrated Science, Neuroscience and Linguistics. 
 
-[cv](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2019/06/CV_for_freshers-4.pdf)
-
 ## Recent/On-going Research Projects
 ### Syntax and Processing of Island Constructions
 
