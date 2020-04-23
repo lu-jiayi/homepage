@@ -1,7 +1,5 @@
 ## About Me
 
-![my image](https://github.com/lu-jiayi/homepage/blob/master/jiayi.jpg =100x100)
-
 Hello! I am a first-year PhD student in linguistics at Stanford University. I am mostly interested in syntax and psycholinguistics. 
 
 Before coming to Stanford, I was an undergrad at Northwestern University majoring in Integrated Science, Neuroscience and Linguistics. 
