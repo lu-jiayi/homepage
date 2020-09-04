@@ -15,7 +15,7 @@ Hello! I am a second-year PhD student in linguistics at Stanford University. I a
 
 (1) Processing of syntactically "noisy" sentences in Mandarin Chinese (manuscript in prep, with Meilin Zhan, Ted Gibson, and Roger Levy)
 
-(2) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northerstern: [poster at SNL2018](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf))
+(2) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northwestern University: [poster at SNL2018](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf))
 
 
 ## Contact
