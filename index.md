@@ -5,7 +5,7 @@ Hello! I am a second-year PhD student in linguistics at Stanford University. I a
 ## Recent/On-going Research Projects
 ### Syntax and Processing of Island Constructions
 
-(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), [amlap2018 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf), [Extension to multiple-wh questions](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
+(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), [amlap2018 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf), [Extension to multiple-wh questions (my BA thesis)](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
 
 (2) Coordinate structure constraint and the syntax of coordination
 
