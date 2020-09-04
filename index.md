@@ -1,8 +1,6 @@
 ## About Me
 
-Hello! I am a first-year PhD student in linguistics at Stanford University. I am mostly interested in syntax and psycholinguistics. 
-
-Before coming to Stanford, I was an undergrad at Northwestern University majoring in Integrated Science, Neuroscience and Linguistics. 
+Hello! I am a second-year PhD student in linguistics at Stanford University. I am mostly interested in syntax and psycholinguistics. 
 
 ## Recent/On-going Research Projects
 ### Syntax and Processing of Island Constructions
