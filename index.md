@@ -5,11 +5,11 @@ Hello! I am a second-year PhD student in linguistics at Stanford University. I a
 ## Recent/On-going Research Projects
 ### Syntax and Processing of Island Constructions
 
-(1) Argument/adjunct asymmetry in island-sensitivity: [case study in Chinese](https://doi.org/10.1162/ling_a_00343), [amlap2018 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf), [Extension to multiple-wh questions (my BA thesis)](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
+(1) Argument/adjunct asymmetry in island-sensitivity: [2020 LI paper](https://doi.org/10.1162/ling_a_00343), [Amlap2018 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf), [Extension to multiple-wh questions (my BA thesis)](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
 
-(2) Coordinate structure constraint and the syntax of coordination
+(2) Coordinate structure constraint and the syntax of coordination [LSA2021 talk on Turkish -(y)Ip and ve coordination](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k)
 
-(3) Satiation of acceptability judgment (github repos: [1](https://github.com/lu-jiayi/Satiation_baseline), [2](https://github.com/lu-jiayi/satiation_exp1b_island_as_ungram), [3](https://github.com/lu-jiayi/satiation_exp1c_island_as_neutral))
+(3) Satiation of acceptability judgment (github repos: [1](https://github.com/lu-jiayi/Satiation_baseline), [2](https://github.com/lu-jiayi/satiation_exp1b_island_as_ungram), [3](https://github.com/lu-jiayi/satiation_exp1c_island_as_neutral)) [LSA2021 talk on the satiation of island constraints](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t)
 
 ### Sentence Processing in General
 
