@@ -11,7 +11,7 @@ In the domain of syntax, I'm generally interested in Island effects. Specificall
 
 (2) Argument/adjunct asymmetry in island-sensitivity: 
 [2020 Linguistic Inquiry paper](https://doi.org/10.1162/ling_a_00343);
-[Amlap2018/LSA2019 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf)
+[Amlap2018/LSA2019 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf);
 [My BA thesis](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
 
 
@@ -25,7 +25,7 @@ In the domain of psycholinguistics, I'm particularly interested in the nature of
 Manuscript in prep, with Meilin Zhan, Ted Gibson, and Roger Levy
 
 (3) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northwestern University): 
-[SNL2018 poster](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf))
+[SNL2018 poster](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf)
 
 
 ## Contact
