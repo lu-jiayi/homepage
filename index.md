@@ -25,7 +25,7 @@ In the domain of psycholinguistics, I'm particularly interested in the nature of
 
 (1) Satiation of acceptability judgment:
 
-[LSA2021 talk on the satiation of island constraints](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t)
+[LSA2021 talk](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t)
 
 (2) Processing of syntactically "noisy" sentences in Mandarin Chinese (work done at TedLab at MIT):
 
