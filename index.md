@@ -7,7 +7,9 @@ Hello! I am a second-year PhD student in linguistics at Stanford University. I a
 In the domain of syntax, I'm generally interested in Island effects. Specifically, I have looked at the coordinate structure constraint (the islandhood of conjuncts), and the argument/adjunct asymmetry in island effects. 
 
 (1) Coordinate structure constraint and the syntax of coordination:
+
 [LSA2021 talk on Turkish -(y)Ip and ve coordination](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k)
+
 
 (2) Argument/adjunct asymmetry in island-sensitivity: 
 [2020 Linguistic Inquiry paper](https://doi.org/10.1162/ling_a_00343);
