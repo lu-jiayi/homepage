@@ -38,7 +38,11 @@ Manuscript in prep, with Meilin Zhan, Ted Gibson, and Roger Levy
 [SNL2018 poster](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf)
 
 ## Me not as a Linguist
-In my free time, I'm a collector of stamps, covers, and other ephemera, and as a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers ([cachet for Scott #5557 "Chien-Shiung Wu Forever stamp"](https://github.com/lu-jiayi/homepage/raw/master/wucs_cover.pdf)). I also enjoy cooking, traveling, playing soccer, and watching movies. 
+In my free time, I enjoy cooking, traveling, playing soccer, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers. Here are some FDC cachets I created:
+
+[cachet for Scott #5557 "Chien-Shiung Wu Forever stamp"](https://github.com/lu-jiayi/homepage/raw/master/wucs_cover.pdf)
+
+[cachet fot Scott #5556 "Year of the Ox Forever stamp"](https://github.com/lu-jiayi/homepage/raw/master/yox_cover.pdf)
 
 ## Contact
 
