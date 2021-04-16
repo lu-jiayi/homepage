@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am a second-year PhD student in linguistics at Stanford University. Before coming to Stanford, I completed my BA at Northwestern University with majors in Linguistics, Neuroscience, and Integrated Science.
+Hello! I am Jiayi Lu (he/his), a second-year PhD student in linguistics at Stanford University. Before coming to Stanford, I completed my BA at Northwestern University with majors in Linguistics, Neuroscience, and Integrated Science.
 
 ## Research
 I am primarily interested in syntax and psycholinguistics. 
