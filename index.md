@@ -27,6 +27,8 @@ In the domain of psycholinguistics, I'm particularly interested in the nature of
 
 (1) Satiation of acceptability judgment:
 
+[CogSci2021 Proceedings Paper](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf)
+
 [LSA2021 talk](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t)
 
 (2) Processing of syntactically "noisy" sentences in Mandarin Chinese (work done at TedLab at MIT):
