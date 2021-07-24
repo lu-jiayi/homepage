@@ -19,8 +19,6 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 
 [Amlap2018/LSA2019 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf);
 
-[My BA thesis](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/Thesis_Submit.pdf)
-
 
 ### Psycholinguistics
 In the domain of psycholinguistics, I'm particularly interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
