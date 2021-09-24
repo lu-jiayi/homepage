@@ -29,11 +29,17 @@ In the domain of psycholinguistics, I'm particularly interested in the nature of
 
 [LSA2021 talk](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t)
 
-(2) Processing of syntactically "noisy" sentences in Mandarin Chinese (work done at TedLab at MIT):
+(2) The "Lingering effect" in wh-question processing and its effect on acceptability judgment (collaboration with [Nayoun Kim](https://nayounkimlinguist.wordpress.com/)):
+
+Paper forthcoming in the Korean Journal of Linguistics 
+
+(3) Processing of the gapping construction (collaboration with [Nayoun Kim](https://nayounkimlinguist.wordpress.com/))
+
+(4) Processing of syntactically "noisy" sentences in Mandarin Chinese (work done at TedLab at MIT):
 
 Manuscript in prep, with Meilin Zhan, Ted Gibson, and Roger Levy
 
-(3) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northwestern University): 
+(5) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northwestern University): 
 
 [SNL2018 poster](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf)
 
