@@ -31,7 +31,7 @@ In the domain of psycholinguistics, I'm particularly interested in the nature of
 
 (2) The "Lingering effect" in wh-question processing and its effect on acceptability judgment (collaboration with [Nayoun Kim](https://nayounkimlinguist.wordpress.com/)):
 
-Paper forthcoming in the Korean Journal of Linguistics 
+[2021 paper in the Korean Journal of Linguistics](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002760375)
 
 (3) Processing of the gapping construction (collaboration with [Nayoun Kim](https://nayounkimlinguist.wordpress.com/))
 
