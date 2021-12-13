@@ -6,7 +6,7 @@ Hello! I am Jiayi Lu (he/his), a third-year PhD student in linguistics at Stanfo
 I am primarily interested in syntax and psycholinguistics. 
 
 ### Syntax
-In the domain of syntax, I'm generally interested in island effects. Specifically, I have looked at the coordinate structure constraint (the islandhood of conjuncts), and the argument/adjunct asymmetry in island effects. 
+In the domain of syntax, I'm generally interested in island effects. Specifically, I have looked at the coordinate structure constraint (the islandhood of conjuncts), and the argument/adjunct asymmetry in island effects. I am also interested in the structure of clause chaining and coordination.
 
 (1) Coordinate structure constraint and the syntax of coordination:
 
