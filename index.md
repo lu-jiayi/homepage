@@ -35,6 +35,10 @@ In the domain of psycholinguistics, I'm particularly interested in the nature of
 
 (3) Processing of the gapping construction (collaboration with [Nayoun Kim](https://nayounkimlinguist.wordpress.com/))
 
+[LSA2022 poster](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf)
+
+Manuscript in prep
+
 (4) Processing of syntactically "noisy" sentences in Mandarin Chinese (work done at TedLab at MIT):
 
 Manuscript in prep, with Meilin Zhan, Ted Gibson, and Roger Levy
