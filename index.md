@@ -10,12 +10,12 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 
 (1) Coordinate structure constraint and the syntax of coordination:
 
-[LSA2021 talk](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k)
+Lu, J. (2021). [Reducing conjunct islands to adjunct islands: Evidence from Turkish](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k). Talk presented at LSA 2021. Online.
 
 
 (2) Argument/adjunct asymmetry in island-sensitivity: 
 
-[2020 Linguistic Inquiry paper](https://doi.org/10.1162/ling_a_00343);
+Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
 [Amlap2018/LSA2019 poster](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf);
 
@@ -23,36 +23,29 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 ### Psycholinguistics
 In the domain of psycholinguistics, I'm particularly interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
 
-(1) Satiation of acceptability judgment:
+(1) Acceptability judgments and when they don't reflect grammaticality:
 
-[CogSci2021 Proceedings Paper](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf)
+Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by speaker-specific adaptation](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 43).
 
-[LSA2021 talk](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t)
+Lu, J., & Degen, J. (2021). [Satiation as Rapid Adaptation  to Ungrammatical  Constructions](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t). Talk presented at LSA 2021. Online. 
 
-(2) The "Lingering effect" in wh-question processing and its effect on acceptability judgment (collaboration with [Nayoun Kim](https://nayounkimlinguist.wordpress.com/)):
+Kim, N., & Lu, J. (2021). [An Illusion of Grammaticality in Wh-Questions](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002760375). Korean Journal of Linguistics, 46(3), 699-716.
 
-[2021 paper in the Korean Journal of Linguistics](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002760375)
+(2) Other sentence processing/psycholinguistics projects:
 
-(3) Processing of the gapping construction (collaboration with [Nayoun Kim](https://nayounkimlinguist.wordpress.com/))
+(manuscript in prep) Rational Sentence Interpretation in Mandarin Chinese. With Meilin Zhan, Sihan Chen, Roger Levy, and Ted Gibson.
 
-[LSA2022 poster](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf)
+Kim, N., & Lu, J. (2022). [Predictive Sentence Processing: Evidence from Passive Relative Clause Processing](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002812645). Korean Journal of English Language and Linguistics 22(1):70-85
 
-Manuscript in prep
+Kim, N., & Lu, J. (2022). [Maxizing parallelism in gapping: the case of argument structure mismatches poster](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf). Poster presented at LSA 2022. Washington, D.C.
 
-(4) Processing of syntactically "noisy" sentences in Mandarin Chinese (work done at TedLab at MIT):
-
-Manuscript in prep, with Meilin Zhan, Ted Gibson, and Roger Levy
-
-(5) Processing of Chinese relative clauses (work done in the Aphasia and Neurolinguistic Lab at Northwestern University): 
-
-[SNL2018 poster](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf)
+Lu, J., Walenski, W., & Thompson, C.K. [EEG evidence for different syntactic expectations in parsing Chinese subject- and object-relative clauses](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf). Poster presented at SNL 2018. Quebec City, Canada.
 
 ## Me not as a Linguist
-In my free time, I enjoy cooking, traveling, playing soccer, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers. Here are some FDC cachets I created:
+In my free time, I enjoy cooking, traveling, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers. [Here](https://github.com/lu-jiayi/homepage/raw/master/wucs_cover.pdf) and [here](https://github.com/lu-jiayi/homepage/raw/master/yox_cover.pdf) are some example covers I helped with creating.  
 
-[cachet for Scott #5557 "Chien-Shiung Wu Forever stamp"](https://github.com/lu-jiayi/homepage/raw/master/wucs_cover.pdf)
+I also love playing and watching soccer. I am a licensed youth soccer coach (USSF E license), and I once coached the U13/14 girls team at Jahbat FC (a travel team based in Evanston, IL.) for two seasons from 2016 to 2017. [Here](https://github.com/lu-jiayi/homepage/raw/master/unnamed.jpg) is a picture of me with the team!
 
-[cachet fot Scott #5556 "Year of the Ox Forever stamp"](https://github.com/lu-jiayi/homepage/raw/master/yox_cover.pdf)
 
 ## Contact
 
