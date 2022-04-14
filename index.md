@@ -25,6 +25,8 @@ In the domain of psycholinguistics, I'm particularly interested in the nature of
 
 (1) Acceptability judgments and when they don't reflect grammaticality:
 
+Wright, N., Lu, J., & Degen, J. (2022). What is the representational target of island satiation effects?. Talk presented at HSP 2022. Online. 
+
 Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by speaker-specific adaptation](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 43).
 
 Lu, J., & Degen, J. (2021). [Satiation as Rapid Adaptation  to Ungrammatical  Constructions](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t). Talk presented at LSA 2021. Online. 
