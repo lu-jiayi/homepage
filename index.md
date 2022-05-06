@@ -41,7 +41,7 @@ Kim, N., & Lu, J. (2021). [An Illusion of Grammaticality in Wh-Questions](https:
 
 Kim, N., & Lu, J. (2022). [Predictive Sentence Processing: Evidence from Passive Relative Clause Processing](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002812645). Korean Journal of English Language and Linguistics 22(1):70-85
 
-Kim, N., & Lu, J. (2022). [Maxizing parallelism in gapping: the case of argument structure mismatches poster](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf). Poster presented at LSA 2022. Washington, D.C.
+Kim, N., & Lu, J. (2022). [Maximizing parallelism in gapping: the case of argument structure mismatches poster](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf). Poster presented at LSA 2022. Washington, D.C.
 
 Lu, J., Walenski, W., & Thompson, C.K. [EEG evidence for different syntactic expectations in parsing Chinese subject- and object-relative clauses](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf). Poster presented at SNL 2018. Quebec City, Canada.
 
