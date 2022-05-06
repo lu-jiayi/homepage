@@ -10,7 +10,7 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 
 (1) Coordination:
 
-Lu, J. & Kim, N. _to appear_. [The Puzzle of Argument Structure Mismatch in Gapping](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/abstract). Frontiers in Psychology. 
+Lu, J. & Kim, N. (2022). [The Puzzle of Argument Structure Mismatch in Gapping](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/abstract). Frontiers in Psychology. 
 
 Lu, J. (2021). [Reducing conjunct islands to adjunct islands: Evidence from Turkish](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k). Talk presented at LSA 2021. Online.
 
