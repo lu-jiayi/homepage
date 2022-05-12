@@ -39,7 +39,7 @@ Kim, N., & Lu, J. (2021). [An Illusion of Grammaticality in Wh-Questions](https:
 
 (2) Other sentence processing/psycholinguistics projects:
 
-(manuscript in prep) Rational Sentence Interpretation in Mandarin Chinese. With Meilin Zhan, Sihan Chen, Roger Levy, and Ted Gibson.
+(under review) Rational Sentence Interpretation in Mandarin Chinese. With Meilin Zhan, Sihan Chen, Roger Levy, and Ted Gibson.
 
 Kim, N., & Lu, J. (2022). [Predictive Sentence Processing: Evidence from Passive Relative Clause Processing](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002812645). Korean Journal of English Language and Linguistics 22(1):70-85
 
