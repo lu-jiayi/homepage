@@ -31,9 +31,9 @@ Wright, N., Lu, J., & Degen, J. (2022). [What is the representational target of 
 
 Kim, N., & Lu, J. (2022). [Maximizing parallelism in gapping: the case of argument structure mismatches](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf). Poster presented at LSA 2022. Washington, D.C.
 
-Lu, J. (2021). [Reducing conjunct islands to adjunct islands: Evidence from Turkish](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k). Talk presented at LSA 2021. Online.
-
 Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by speaker-specific adaptation](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). Short talk presented at the 43rd Annual Meeting of the Cognitive Science Society. Online.
+
+Lu, J. (2021). [Reducing conjunct islands to adjunct islands: Evidence from Turkish](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k). Talk presented at LSA 2021. Online.
 
 Lu, J., & Degen, J. (2021). [Satiation as Rapid Adaptation to Ungrammatical Constructions](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t). Talk presented at LSA 2021. Online. 
 
