@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am Jiayi Lu (he/his), a third-year PhD student in linguistics at Stanford University. I completed my BA at Northwestern University in 2019 with majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
+Hello! I am Jiayi Lu (陆家屹，he/his), a third-year PhD student in linguistics at Stanford University. I completed my BA at Northwestern University in 2019 with majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
 
 ## Research Interests
 I am primarily interested in syntax and psycholinguistics. 
