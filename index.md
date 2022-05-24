@@ -9,7 +9,7 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 
 In the domain of psycholinguistics, I'm particularly interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
 
-## Papers
+## Papers and Manuscripts
 
 Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (under review). Rational Sentence Interpretation in Mandarin Chinese. 
 
