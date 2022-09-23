@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am Jiayi Lu (陆家屹，he/his), a third-year PhD student in linguistics at Stanford University. I completed my BA at Northwestern University in 2019 with majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
+Hello! I am Jiayi Lu (陆家屹，he/his), a fourth-year PhD student in linguistics at Stanford University. I completed my BA at Northwestern University in 2019 with majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
 
 ## Research Interests
 I am primarily interested in syntax and psycholinguistics. 
@@ -26,6 +26,8 @@ Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by spea
 Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
 ## Presentations
+
+Lu, J., Wright, N., & Degen, J. (2022). Satiation effects generalize across island types. Poster presented at the 44th Annual Meeting of the Cognitive Science Society. Toronto, Canada.
 
 Wright, N., Lu, J., & Degen, J. (2022). [What is the representational target of island satiation effects?](https://virtual.oxfordabstracts.com/#/event/public/2562/submission/164). Poster presented at HSP 2022. Online. 
 
