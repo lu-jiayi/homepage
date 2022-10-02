@@ -27,6 +27,10 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 
 ## Presentations
 
+Lu, J., & Kim, N. (2023) Coordination of Unlike Categories Creates Grammaticality Illusion. to be presented at LSA 2023. Denver, CO. 
+
+Lu, J., & Degen, J. (2023) Which island-violating sentences satiate: A meta-analysis. to be presented at LSA 2023. Denver, CO.
+
 Lu, J., Wright, N., & Degen, J. (2022). Satiation effects generalize across island types. Poster presented at the 44th Annual Meeting of the Cognitive Science Society. Toronto, Canada.
 
 Wright, N., Lu, J., & Degen, J. (2022). [What is the representational target of island satiation effects?](https://virtual.oxfordabstracts.com/#/event/public/2562/submission/164). Poster presented at HSP 2022. Online. 
