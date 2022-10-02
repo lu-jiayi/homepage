@@ -7,7 +7,7 @@ I am primarily interested in syntax and psycholinguistics.
 
 In the domain of syntax, I'm generally interested in island effects. Specifically, I have looked at the coordinate structure constraint (the islandhood of conjuncts), and the argument/adjunct asymmetry in island effects. I am also interested in the structure of clause chaining and coordination.
 
-In the domain of psycholinguistics, I'm particularly interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
+In the domain of psycholinguistics, I'm interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable? When do accepatbility ratings change and why?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
 
 ## Papers and Manuscripts
 
