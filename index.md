@@ -11,6 +11,8 @@ In the domain of psycholinguistics, I'm interested in the nature of acceptabilit
 
 ## Peer-reviewed Papers
 
+Kim, N., Li, Z., & Lu, J. (under review). Island-Sensitivity of Two Different Interpretations of Why in Chinese. 
+
 Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (under review). Rational Sentence Interpretation in Mandarin Chinese. 
 
 Lu, J., Wright, N., & Degen, J. (2022). [Satiation effects generalize across island types](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%20(1).pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44).
@@ -27,7 +29,7 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 
 ## Unpublished manuscripts
 
-[An adjunction analysis of clause chaining in Turkish](https://stanford.box.com/s/nqz2elubzojs1nej3ydl5ei1kfpbo2ef). 2nd Qualifying Paper, Stanford University.
+[An Adjunction Analysis of Clause Chaining in Turkish](https://stanford.box.com/s/nqz2elubzojs1nej3ydl5ei1kfpbo2ef). 2nd Qualifying Paper, Stanford University.
 
 [Satiation as Rapid Syntactic Adaptation](https://stanford.box.com/s/079yyg2pwon7l9s4xh1ghdk2f8okkafd). 1st Qualifying Paper, Stanford University. 
 
