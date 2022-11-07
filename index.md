@@ -9,7 +9,7 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 
 In the domain of psycholinguistics, I'm interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable? When do accepatbility ratings change and why?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
 
-## Papers and Manuscripts
+## Peer-reviewed Papers
 
 Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (under review). Rational Sentence Interpretation in Mandarin Chinese. 
 
@@ -24,6 +24,13 @@ Kim, N., & Lu, J. (2021). [An Illusion of Grammaticality in Wh-Questions](https:
 Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by speaker-specific adaptation](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 43), 1493-1499.
 
 Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
+
+## Unpublished manuscripts
+
+[An adjunction analysis of clause chaining in Turkish](https://stanford.box.com/s/nqz2elubzojs1nej3ydl5ei1kfpbo2ef). 2nd Qualifying Paper, Stanford University.
+
+[Satiation as Rapid Syntactic Adaptation](https://stanford.box.com/s/079yyg2pwon7l9s4xh1ghdk2f8okkafd). 1st Qualifying Paper, Stanford University. 
+
 
 ## Presentations
 
