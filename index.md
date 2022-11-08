@@ -61,7 +61,7 @@ Lu, J., Walenski, W., & Thompson, C.K. [EEG evidence for different syntactic exp
 ## Me not as a Linguist
 In my free time, I enjoy cooking, traveling, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers. [Here](https://github.com/lu-jiayi/homepage/raw/master/wucs_cover.pdf) and [here](https://github.com/lu-jiayi/homepage/raw/master/yox_cover.pdf) are some example covers I helped with creating. I also love sending and receiving postcards: here is a [website](https://www.postcrossing.com/) that I use to exchange postcards with my fellow postal enthusiasts around the globe.    
 
-I also love playing and watching soccer. I am a licensed youth soccer coach (USSF E license), and I once coached the U13/14 girls team at Jahbat FC (a travel team based in Evanston, IL.) for two seasons from 2016 to 2017. [Here](https://github.com/lu-jiayi/homepage/raw/master/unnamed.jpg) is a picture of me with the team! 
+I also love playing and watching soccer. I am a licensed youth soccer coach (USSF E license), and I once coached the U13/14 girls team at Jahbat FC (a travel team based in Evanston, IL.) for two seasons from 2016 to 2017. [Here](https://github.com/lu-jiayi/homepage/raw/master/unnamed.jpg) is a picture of me with the team! Nowadays, I play in the local recreational league as a goalie. [Here](https://stanford.box.com/s/kjf3efm1ljs6kct1rchs0kh9o6brnndm) is a picture of me with my team!
 
 
 ## Contact
