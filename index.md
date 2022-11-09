@@ -33,6 +33,7 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 
 [Satiation as Rapid Syntactic Adaptation](https://stanford.box.com/s/079yyg2pwon7l9s4xh1ghdk2f8okkafd). 1st Qualifying Paper, Stanford University. 
 
+Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University.
 
 ## Presentations
 
