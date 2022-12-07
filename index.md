@@ -13,8 +13,6 @@ In the domain of psycholinguistics, I'm interested in the nature of acceptabilit
 
 Kim, N., Li, Z., & Lu, J. (under review). Island-Sensitivity of Two Different Interpretations of Why in Chinese. 
 
-Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (under review). Rational Sentence Interpretation in Mandarin Chinese. 
-
 Lu, J., Wright, N., & Degen, J. (2022). [Satiation effects generalize across island types](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%20(1).pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44).
 
 Lu, J. & Kim, N. (2022). [The Puzzle of Argument Structure Mismatch in Gapping](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/full). Frontiers in Psychology 13:907823. 
