@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I am Jiayi Lu (陆家屹，he/his), a fourth-year PhD student in linguistics at Stanford University. I completed my BA at Northwestern University in 2019 with majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
+Hello! I am Jiayi Lu (陆家屹，he/his), a fourth-year PhD student in linguistics at Stanford University. Before Stanford, I completed my BA at Northwestern University in 2019 with majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
 
 ## Research Interests
 I am primarily interested in syntax and psycholinguistics. 
@@ -8,6 +8,8 @@ I am primarily interested in syntax and psycholinguistics.
 In the domain of syntax, I'm generally interested in island effects. Specifically, I have looked at the coordinate structure constraint (the islandhood of conjuncts), and the argument/adjunct asymmetry in island effects. I am also interested in the structure of clause chaining and coordination.
 
 In the domain of psycholinguistics, I'm interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable? When do accepatbility ratings change and why?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
+
+At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advised by Tom Wasow, Mike Frank, Dan Lassiter, and Boris Harizanov. 
 
 ## Peer-reviewed Papers
 
