@@ -34,13 +34,13 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University.
 
 ## Presentations
-Pan, D., Lu, J., & Degen, J. (2023) Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding. Short talk to be presented at CAMP 2023. Los Angeles, CA.
+Pan, D., Lu, J., & Degen, J. (2023). Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding. Short talk to be presented at CAMP 2023. Los Angeles, CA.
 
-Lu, J., & Degen, J. (2023) Which islands satiate? A meta-analysis. Talk to be presented at CAMP 2023. Los Angeles, CA. 
+Lu, J., & Degen, J. (2023). Which islands satiate? A meta-analysis. Talk to be presented at CAMP 2023. Los Angeles, CA. 
 
-Lu, J., & Kim, N. (2023) Coordination of Unlike Categories Creates Grammaticality Illusion. Poster to be presented at LSA 2023. Denver, CO. 
+Lu, J., & Kim, N. (2023). Coordination of Unlike Categories Creates Grammaticality Illusion. Poster to be presented at LSA 2023. Denver, CO. 
 
-Lu, J., & Degen, J. (2023) Which island-violating sentences satiate: A meta-analysis. Poster to be presented at LSA 2023. Denver, CO.
+Lu, J., & Degen, J. (2023). Which island-violating sentences satiate: A meta-analysis. Poster to be presented at LSA 2023. Denver, CO.
 
 Lu, J., Wright, N., & Degen, J. (2022). Satiation effects generalize across island types. Poster presented at the 44th Annual Meeting of the Cognitive Science Society. Toronto, Canada.
 
