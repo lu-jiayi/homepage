@@ -13,7 +13,7 @@ At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advise
 
 ## Peer-reviewed Papers
 
-Kim, N., Li, Z., & Lu, J. (under review). Island-Sensitivity of Two Different Interpretations of Why in Chinese. 
+Kim, N., Li, Z., & Lu, J. (to appear). Island-Sensitivity of Two Different Interpretations of Why in Chinese. Frontiers in Psychology. 
 
 Lu, J., Wright, N., & Degen, J. (2022). [Satiation effects generalize across island types](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%20(1).pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44).
 
