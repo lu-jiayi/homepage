@@ -29,11 +29,11 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 
 ## Unpublished manuscripts
 
-[An Adjunction Analysis of Clause Chaining in Turkish](https://stanford.box.com/s/nqz2elubzojs1nej3ydl5ei1kfpbo2ef). 2nd Qualifying Paper, Stanford University.
+[An Adjunction Analysis of Clause Chaining in Turkish](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing). 2nd Qualifying Paper, Stanford University. Advised by Boris Harizanov, Vera Gribanova, Daniel Lassiter.
 
-[Satiation as Rapid Syntactic Adaptation](https://stanford.box.com/s/079yyg2pwon7l9s4xh1ghdk2f8okkafd). 1st Qualifying Paper, Stanford University. 
+[Satiation as Rapid Syntactic Adaptation](https://drive.google.com/file/d/12MjqBQAQ8i1vr74vrn0e3w5hBTAUN7K4/view?usp=sharing). 1st Qualifying Paper, Stanford University. Advised by Judith Degen, Boris Harizanov, Daniel Lassiter.
 
-Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University.
+Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University. Adivsed by Masaya Yoshida, Shayne Sloggett. 
 
 ## Conference Presentations
 
