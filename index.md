@@ -28,6 +28,9 @@ Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by spea
 Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
 ## Unpublished manuscripts
+Lu, J. Frank, M. C., & Degen, J. (under review) [A Meta-analysis of Syntactic Satiation in Extraction from Islands](https://ling.auf.net/lingbuzz/007198). 
+
+Lu, J. (under review). An Adjunction Analysis of Clause Chaining in Turkish. 
 
 [An Adjunction Analysis of Clause Chaining in Turkish](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing). 2nd Qualifying Paper, Stanford University. Advised by Boris Harizanov, Vera Gribanova, Daniel Lassiter.
 
@@ -36,8 +39,9 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University. Adivsed by Masaya Yoshida, Shayne Sloggett. 
 
 ## Conference Presentations
+Pan, D., Lu, J., & Degen, J. (2023). Discourse Foregrounding Ameliorates Manner-of-Speaking Islands. Poster presented at HSP 2023. Pittsburgh, PA.
 
-Lu, J., & Degen, J. (2023). Which islands satiate? A meta-analysis. Talk to be presented at CAMP 2023. Los Angeles, CA. 
+Lu, J., & Degen, J. (2023). Which islands satiate? A meta-analysis. Talk presented at CAMP 2023. Los Angeles, CA. 
 
 Pan, D., Lu, J., & Degen, J. (2023). Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding. Short talk to be presented at CAMP 2023. Los Angeles, CA.
 
