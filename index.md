@@ -45,7 +45,7 @@ Lu, J., & Degen, J. (2023). Which islands satiate? A meta-analysis. Talk present
 
 Pan, D., Lu, J., & Degen, J. (2023). Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding. Short talk to be presented at CAMP 2023. Los Angeles, CA.
 
-Lu, J., & Kim, N. (2023). [Coordination of Unlike Categories Creates Grammaticality Illusion](https://drive.google.com/file/d/1YitYMFoiOBhV2WFn8MH3Ty5KNUjKBdww/view?usp=share_link). Poster presented at LSA 2023. Denver, CO. 
+Lu, J., & Kim, N. (2023). [Coordination of Unlike Categories Creates Grammaticality Illusion](https://github.com/lu-jiayi/homepage/raw/master/LSA2023_coord_poster.pdf). Poster presented at LSA 2023. Denver, CO. 
 
 Lu, J., & Degen, J. (2023). [Which island-violating sentences satiate: A meta-analysis](https://stanford.box.com/s/xhjwoxsyq1was7revdg9g7ppwzlo1xso). Poster presented at LSA 2023. Denver, CO.
 
