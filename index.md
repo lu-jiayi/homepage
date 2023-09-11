@@ -1,13 +1,13 @@
 ## About Me
 
-Hello! I am Jiayi Lu (陆家屹，he/his), a fourth-year PhD student in linguistics at Stanford University. Before Stanford, I completed my BA at Northwestern University in 2019 with triple majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
+Hello! I am Jiayi Lu (陆家屹，he/his), a fifth-year PhD student in linguistics at Stanford University. Before Stanford, I completed my BA at Northwestern University in 2019 with triple majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
 
 ## Research Interests
 I am primarily interested in syntax and psycholinguistics. 
 
 In the domain of syntax, I'm generally interested in island effects. Specifically, I have looked at the coordinate structure constraint (the islandhood of conjuncts), and the argument/adjunct asymmetry in island effects. I am also interested in the structure of clause chaining and coordination.
 
-In the domain of psycholinguistics, I'm interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable? When do accepatbility ratings change and why?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
+In the domain of psycholinguistics, I'm interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable? When do acceptability ratings change and why?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
 
 At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advised by Tom Wasow, Mike Frank, Dan Lassiter, and Boris Harizanov. 
 
@@ -72,9 +72,9 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2018). [Chinese Wh-in-Situ and Islands: A
 Lu, J., Walenski, W., & Thompson, C.K. [EEG evidence for different syntactic expectations in parsing Chinese subject- and object-relative clauses](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf). Poster presented at SNL 2018. Quebec City, Canada.
 
 ## Me not as a Linguist
-In my free time, I enjoy cooking, traveling, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers. [Here](https://github.com/lu-jiayi/homepage/raw/master/wucs_cover.pdf) and [here](https://github.com/lu-jiayi/homepage/raw/master/yox_cover.pdf) are some example covers I helped with creating. I also love sending and receiving postcards: here is a [website](https://www.postcrossing.com/) that I use to exchange postcards with my fellow postal enthusiasts around the globe.    
+In my free time, I enjoy cooking, traveling, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers. I also love sending and receiving postcards: here is a [website](https://www.postcrossing.com/) that I use to exchange postcards with my fellow postal enthusiasts around the globe.    
 
-I love playing and watching soccer. I am a licensed youth soccer coach (USSF E license), and I once coached the U13/14 girls team at Jahbat FC (a travel team based in Evanston, IL.) for two seasons from 2016 to 2017. [Here](https://github.com/lu-jiayi/homepage/raw/master/unnamed.jpg) is a picture of me with the team! Nowadays, I play in the local recreational league as a goalie. 
+I love playing and watching soccer. I am a licensed youth soccer coach (USSF E license), and I once coached the U13/14 girls team at Jahbat FC (a travel team based in Evanston, IL.) for two seasons from 2016 to 2017. [Here](https://github.com/lu-jiayi/homepage/raw/master/unnamed.jpg) is a picture of me with the team! Nowadays, I play in the local recreational league in the Bay Area as a goalie. 
 
 
 ## Contact
