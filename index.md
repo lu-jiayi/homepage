@@ -29,7 +29,9 @@ Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by spea
 Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
 ## Unpublished manuscripts
-Lu, J., Pan, D., & Degen, J. (in prep) Discourse Effects on the Manner-of-Speaking Island.
+Kim, N. & Lu, J. (Under review) Coordination of Unlike Categories Creates Grammaticality Illusion. 
+
+Lu, J., Pan, D., & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
 
 Lu, J., Frank, M. C., & Degen, J. (under review) [A Meta-analysis of Syntactic Satiation in Extraction from Islands](https://ling.auf.net/lingbuzz/007198). 
 
