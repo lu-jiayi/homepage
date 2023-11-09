@@ -3,13 +3,13 @@
 Hello! I am Jiayi Lu (陆家屹，he/his), a fifth-year PhD student in linguistics at Stanford University. Before Stanford, I completed my BA at Northwestern University in 2019 with triple majors in linguistics, neuroscience, and integrated science. I'm originally from Beijing, China.
 
 ## Research Interests
-I am primarily interested in syntax and psycholinguistics. 
+I am primarily interested in psycholinguistics and syntax. 
+
+In the domain of psycholinguistics, I'm interested in studying the linguistic adaptation effect (how do language users track and adapt to the variability in other people's grammars and their different ways of using languages?), and the nature of acceptability judgments ( what do people do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable? When do acceptability ratings change and why?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
 
 In the domain of syntax, I'm generally interested in island effects. Specifically, I have looked at the coordinate structure constraint (the islandhood of conjuncts), and the argument/adjunct asymmetry in island effects. I am also interested in the structure of clause chaining and coordination.
 
-In the domain of psycholinguistics, I'm interested in the nature of acceptability judgments (i.e. what do participants do when they give acceptability ratings to sentences? What makes a sentence (un)acceptable? When do acceptability ratings change and why?). I have also done some work on the noisy-channel model of sentence comprehension, and the processing of relative clauses.  
-
-At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advised by Tom Wasow, Mike Frank, Dan Lassiter, and Boris Harizanov. 
+At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advised by Tom Wasow, Mike Frank (Stanford Psychology), Dan Lassiter (Univ. of Edinburgh), and Boris Harizanov. 
 
 ## Peer-reviewed Papers
 Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (accepted). Rational Sentence Interpretation in Mandarin Chinese. Cognitive Science.
