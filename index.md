@@ -12,6 +12,7 @@ In the domain of psycholinguistics, I'm interested in the nature of acceptabilit
 At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advised by Tom Wasow, Mike Frank, Dan Lassiter, and Boris Harizanov. 
 
 ## Peer-reviewed Papers
+Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (accepted). Rational Sentence Interpretation in Mandarin Chinese. Cognitive Science.
 
 Kim, N., Li, Z., & Lu, J. (2023). [Island-Sensitivity of Two Different Interpretations of Why in Chinese](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full). Frontiers in Psychology 13:1059823.
 
@@ -29,8 +30,6 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 
 ## Unpublished manuscripts
 Lu, J., Pan, D., & Degen, J. (in prep) Discourse Effects on the Manner-of-Speaking Island.
-
-Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (in prep) Rational Sentence Interpretation in Mandarin Chinese. 
 
 Lu, J., Frank, M. C., & Degen, J. (under review) [A Meta-analysis of Syntactic Satiation in Extraction from Islands](https://ling.auf.net/lingbuzz/007198). 
 
