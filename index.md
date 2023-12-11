@@ -12,7 +12,7 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advised by Tom Wasow, Mike Frank (Stanford Psychology), Dan Lassiter (Univ. of Edinburgh), and Boris Harizanov. 
 
 ## Peer-reviewed Papers
-Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (2023). [Rational Sentence Interpretation in Mandarin Chinese](https://doi.org/10.1111/cogs.13383). Cognitive Science 47: e13383.
+Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (2023). [Rational Sentence Interpretation in Mandarin Chinese](https://doi.org/10.1111/cogs.13383). Cognitive Science 47(12): e13383.
 
 Kim, N., Li, Z., & Lu, J. (2023). [Island-Sensitivity of Two Different Interpretations of Why in Chinese](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full). Frontiers in Psychology 13:1059823.
 
