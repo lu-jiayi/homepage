@@ -12,6 +12,8 @@ In the domain of syntax, I'm generally interested in island effects. Specificall
 At Stanford, I primarily work with Judith Degen in the ALPS lab. I'm also advised by Tom Wasow, Mike Frank (Stanford Psychology), Dan Lassiter (Univ. of Edinburgh), and Boris Harizanov. 
 
 ## Peer-reviewed Papers
+Kim, N. & Lu, J. (2024) [Coordination of Unlike Categories Creates Grammaticality Illusion](http://journal.kasell.or.kr/xml/39312/39312.pdf). Korean Journal of English Language and Linguistics 24(1): 52-61
+
 Zhan, M., Chen, S., Levy, R., Lu, J., & Gibson, E. (2023). [Rational Sentence Interpretation in Mandarin Chinese](https://doi.org/10.1111/cogs.13383). Cognitive Science 47(12): e13383.
 
 Kim, N., Li, Z., & Lu, J. (2023). [Island-Sensitivity of Two Different Interpretations of Why in Chinese](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full). Frontiers in Psychology 13:1059823.
@@ -29,8 +31,6 @@ Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by spea
 Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
 ## Unpublished manuscripts
-Kim, N. & Lu, J. (Under review) Coordination of Unlike Categories Creates Grammaticality Illusion. 
-
 Lu, J., Pan, D., & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
 
 Lu, J., Frank, M. C., & Degen, J. (under review) [A Meta-analysis of Syntactic Satiation in Extraction from Islands](https://ling.auf.net/lingbuzz/007198). 
