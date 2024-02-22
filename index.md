@@ -33,9 +33,9 @@ Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by spea
 Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
 ## Unpublished manuscripts
-Lu, J.*, Merchan, J.*, Wang, L.*, & Degen, J. (under review) Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
+Lu, J.^, Merchan, J.^, Wang, L.^, & Degen, J. (under review) Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
 
-Lu, J.*, Pan, D.*, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
+Lu, J.^, Pan, D.^, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
 
 Lu, J. (under review). An Adjunction Analysis of Clause Chaining in Turkish. 
 
@@ -45,7 +45,7 @@ Lu, J. (under review). An Adjunction Analysis of Clause Chaining in Turkish.
 
 Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University. Adivsed by Masaya Yoshida, Shayne Sloggett. 
 
-*: Equal contributions
+^: Equal contributions
 
 ## Conference Presentations
 Pan, D., Lu, J., & Degen, J. (2023). Discourse Foregrounding Ameliorates Manner-of-Speaking Islands. Poster presented at HSP 2023. Pittsburgh, PA.
