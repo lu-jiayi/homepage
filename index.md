@@ -82,7 +82,7 @@ In my free time, I enjoy cooking, traveling, and watching movies. I'm also a col
 I love playing and watching soccer. I am a licensed youth soccer coach (USSF E license), and I once coached the U13/14 girls team at Jahbat FC (a travel team based in Evanston, IL.) for two seasons from 2016 to 2017. [Here](https://github.com/lu-jiayi/homepage/raw/master/unnamed.jpg) is a picture of me with the team! Nowadays, I play in the local recreational league in the Bay Area as a goalie. 
 
 ## Erdős Number
-My Erdős number is (at most) 5: 	
+My Erdős number is 5: 	
 Paul Erdős -> Noga Alon -> Thomas L. Griffiths -> Noah D. Goodman -> Dan Lassiter -> me.
 
 ## Contact
