@@ -77,10 +77,13 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2018). [Chinese Wh-in-Situ and Islands: A
 Lu, J., Walenski, W., & Thompson, C.K. [EEG evidence for different syntactic expectations in parsing Chinese subject- and object-relative clauses](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf). Poster presented at SNL 2018. Quebec City, Canada.
 
 ## Me not as a Linguist
-In my free time, I enjoy cooking, traveling, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first day covers. I also love sending and receiving postcards: here is a [website](https://www.postcrossing.com/) that I use to exchange postcards with my fellow postal enthusiasts around the globe.    
+In my free time, I enjoy cooking, traveling, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first-day covers. I also love sending and receiving postcards: here is a [website](https://www.postcrossing.com/) that I use to exchange postcards with my fellow postal enthusiasts around the globe.    
 
 I love playing and watching soccer. I am a licensed youth soccer coach (USSF E license), and I once coached the U13/14 girls team at Jahbat FC (a travel team based in Evanston, IL.) for two seasons from 2016 to 2017. [Here](https://github.com/lu-jiayi/homepage/raw/master/unnamed.jpg) is a picture of me with the team! Nowadays, I play in the local recreational league in the Bay Area as a goalie. 
 
+## Erdős Number
+My Erdős number is (at most) 5: 	
+Paul Erdős -> Noga Alon -> Thomas L. Griffiths -> Noah D. Goodman -> Dan Lassiter -> me.
 
 ## Contact
 
