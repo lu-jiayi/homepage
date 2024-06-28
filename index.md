@@ -10,6 +10,8 @@ In the domain of psycholinguistics, I'm interested in studying the linguistic ad
 In the domain of syntax, I'm generally interested in island effects. Specifically, I have looked at the argument/adjunct asymmetry in island effects, and the islandhood of conjuncts. I am also interested in the structure of clause chaining and coordination.
 
 ## Peer-reviewed Papers
+Lu, J.^, Merchan, J.^, Wang, L.^, & Degen, J. (2024) [Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?](https://openpublishing.library.umass.edu/scil/article/id/2125/). Society for Computation in Linguistics 7(1): 10–19
+
 Lu, J., Frank, M. C., & Degen, J. (2024) [A Meta-analysis of Syntactic Satiation in Extraction from Islands](https://escholarship.org/uc/item/33t7f9s4). Glossa Psycholinguistics 3(1): X, pp. 1–33. 
 
 Kim, N. & Lu, J. (2024) [Coordination of Unlike Categories Creates Grammaticality Illusion](http://journal.kasell.or.kr/xml/39312/39312.pdf). Korean Journal of English Language and Linguistics 24(1): 52-61
@@ -30,8 +32,9 @@ Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by spea
 
 Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
+^: Equal contributions
+
 ## Unpublished manuscripts
-Lu, J.^, Merchan, J.^, Wang, L.^, & Degen, J. (under review) Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?
 
 Lu, J.^, Pan, D.^, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
 
