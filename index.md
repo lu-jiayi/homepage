@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I received my PhD in linguistics from Stanford in 2024. In July 2024, I will start as a postdoctoral fellow at the University of Pennsylvania. I'm originally from [Beijing, China](https://www.google.com/maps/@39.9108518,116.3857858,18.51z?entry=ttu).
+Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I'm currently a postdoctoral fellow at the University of Pennsylvania. I received my PhD in linguistics from Stanford in 2024. I'm originally from [Beijing, China](https://www.google.com/maps/@39.9108518,116.3857858,18.51z?entry=ttu).
 
 ## Research Interests
 I am primarily interested in psycholinguistics and syntax. 
