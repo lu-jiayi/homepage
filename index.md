@@ -97,4 +97,4 @@ Paul Erdős -> Noga Alon -> Thomas L. Griffiths -> Noah D. Goodman -> Dan Lassit
 
 ## Contact
 
-jiayi(dot)lu(at)stanford(dot)edu
+jiayilu(at)sas(dot)upenn(dot)edu
