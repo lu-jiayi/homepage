@@ -50,13 +50,15 @@ Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwest
 
 ## Conference Presentations
 
+Lu, J., Papineau, B., Jeong, S., Hernandez, A., Goodwin, E., and Anttila, A. (2025). Interspeaker Variation in Copular Agreement with Disjoined Subjects: an Optimality-Theoretic Account. Talk to be presented at the 2025 Linguistics Society of America (LSA) annual conference, Philadelphia, PA.
+
 Lu, J., Merchan, J., Wang, L., & Degen, J. (2024) Can syntactic Log-odds ratio predict acceptability and satiation?. Poster presented at SCiL 2024. Irvine, CA.
 
 Merchan, J., Wang, L., Lu, J., and Degen, J. (2024). Can language model surprisal predict acceptability and satiation?. Poster presented at CAMP 2024. Stanford, CA.
 
-Yao, R., Lu, J., and Degen, J. 2024. Perceived interpretability predicts satiability for Complex-NP island but not Whether-island. Talk presented at CAMP 2024. Stanford, CA.
+Yao, R., Lu, J., and Degen, J. (2024). Perceived interpretability predicts satiability for Complex-NP island but not Whether-island. Talk presented at CAMP 2024. Stanford, CA.
 
-Lu, J., Pan, D., and Degen, J. 2024. Evidence for a discourse account of Manner-of-Speaking islands. Talk presented at LSA 2024. New York, NY.
+Lu, J., Pan, D., and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. Talk presented at LSA 2024. New York, NY.
 
 Pan, D., Lu, J., & Degen, J. (2023). Discourse Foregrounding Ameliorates Manner-of-Speaking Islands. Poster presented at HSP 2023. Pittsburgh, PA.
 
