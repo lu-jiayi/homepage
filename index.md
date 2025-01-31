@@ -6,9 +6,15 @@ Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I'm currently a po
 
 I'm a psycholinguist and a syntactician.
 
-The central theme of my recent and ongoing research is the connection between exposure to linguistic input and the change in speakers' linguistic knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. In my recent work, I am examining how speakers of different languages came to acquire different [island constraints](https://www.ling.upenn.edu/courses/ling150/ch11.html) from input, and whether the systematic cross-linguistic variation of island effects can be explained by the movement operations available in the input data children are exposed to, along with a learning mechanism that allows generalization from observed movement types to unobserved ones. My work combines my interests in both psycholinguistics and syntax: it answers key syntactic questions about how movement and locality constraints are encoded in our linguistic knowledge, while also informing how such representations are shaped by variable linguistic input during language acquisition and in-the-moment linguistic adaptation.
+The central theme of my recent and ongoing research is the connection between exposure to linguistic input and the change in speakers' linguistic knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. Other related research outputs include Lu, Villata, and Sprouse (in prep), Lu, Merchan, Wang, and Degen (2024), Lu, Frank, and Degen (2024), Lu, Wright, and Degen (2022), Lu, Lassiter and Degen (2021). 
 
-In addition to the lines of work described above, I have also done work on the syntactic and information structural accounts of island effects (Lu, Thompson, and Yoshida 2020; Kim, Li, and Lu 2023; Lu, Pan, and Degen, under review), the coordination structure (Lu 2021; Lu and Kim 2022; Kim and Lu 2024), and theories of sentence processing (Kim and Lu 2021; Kim and Lu 2022; Zhan, Chen, Levy, Lu, and Gibson 2023). Please see below for a list of my research outputs. 
+In my recent work, I am examining how speakers of different languages came to acquire different syntactic knowledge from input, and how the systematic syntactic variation can be explained by a combination of the architecture of grammar, the systematic variability in the input data children are exposed to, and a learning mechanism that allows generalization from observed structures to unobserved ones. Example outputs include Lu, Legate, and Yang (2025, in prep), and Lu, Papineau, Jeong, Hernandez, Goodwin, and Anttila (2025). 
+
+In sum, my recent and ongoing work combines my interests in both psycholinguistics and syntax: it answers key syntactic questions about how movement and locality constraints are encoded in our linguistic knowledge, while also informing how such representations are shaped by variable linguistic input during language acquisition and in-the-moment linguistic adaptation.
+
+In addition to the lines of work described above, I have also done research on the syntactic and information structural accounts of island effects (Lu, Thompson, and Yoshida 2020; Kim, Li, and Lu 2023; Lu, Pan, and Degen, under review), the coordination structure (Lu 2021; Lu and Kim 2022; Kim and Lu 2024), and theories of sentence processing (Lu, Walenski, and Thompson 2018; Kim and Lu 2021; Kim and Lu 2022; Zhan, Chen, Levy, Lu, and Gibson 2023). 
+
+Please see below for a comprehensive list of my research outputs. 
 
 ## Peer-reviewed Papers
 Lu, J.^, Merchan, J.^, Wang, L.^, & Degen, J. (2024) [Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?](https://openpublishing.library.umass.edu/scil/article/id/2125/). Society for Computation in Linguistics 7(1): 10–19
@@ -51,7 +57,9 @@ Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwest
 
 ## Conference Presentations
 
-Lu, J., Papineau, B., Jeong, S., Hernandez, A., Goodwin, E., and Anttila, A. (2025). Interspeaker Variation in Copular Agreement with Disjoined Subjects: an Optimality-Theoretic Account. Talk to be presented at the 2025 Linguistics Society of America (LSA) annual conference, Philadelphia, PA.
+Lu, J., Legate, J.A., and Yang, C. (20
+
+Lu, J., Papineau, B., Jeong, S., Hernandez, A., Goodwin, E., and Anttila, A. (2025). Interspeaker Variation in Copular Agreement with Disjoined Subjects: an Optimality-Theoretic Account. Talk presented at the 2025 Linguistics Society of America (LSA) annual conference, Philadelphia, PA.
 
 Lu, J., Merchan, J., Wang, L., & Degen, J. (2024) Can syntactic Log-odds ratio predict acceptability and satiation?. Poster presented at SCiL 2024. Irvine, CA.
 
