@@ -19,6 +19,8 @@ In addition to the lines of work described above, I have also done research on t
 Please see below for a comprehensive list of my research outputs. 
 
 ## Peer-reviewed Papers
+Lu, J.^, Pan, D.^, & Degen, J. (to appear) [Discourse Effects on the Manner-of-Speaking Island](https://ling.auf.net/lingbuzz/008431). Language.
+
 Lu, J.^, Merchan, J.^, Wang, L.^, & Degen, J. (2024) [Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?](https://openpublishing.library.umass.edu/scil/article/id/2125/). Society for Computation in Linguistics 7(1): 10–19
 
 Lu, J., Frank, M. C., & Degen, J. (2024) [A Meta-analysis of Syntactic Satiation in Extraction from Islands](https://escholarship.org/uc/item/33t7f9s4). Glossa Psycholinguistics 3(1): X, pp. 1–33. 
@@ -44,8 +46,6 @@ Lu, J., Thompson, C.K., & Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A
 ^: Equal contributions
 
 ## Unpublished manuscripts
-
-Lu, J.^, Pan, D.^, & Degen, J. (under review) Discourse Effects on the Manner-of-Speaking Island.
 
 Lu, J. (under review). An Adjunction Analysis of Clause Chaining in Turkish. 
 
