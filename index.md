@@ -2,7 +2,7 @@
 
 Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I'm currently a postdoctoral fellow at the University of Pennsylvania, working with Dr. Julie Anne Legate. I received my PhD in linguistics from Stanford in 2024, and my BA in linguistics and neuroscience from Northwestern University in 2019. I'm originally from [Beijing, China](https://www.google.com/maps/@39.9108518,116.3857858,18.51z?entry=ttu).
 
-In Fall 2025, I will join my alma mater [Northwestern University](https://linguistics.northwestern.edu/) as an Assistant Professor of Linguistics!
+In August 2025, I will join my alma mater [Northwestern University](https://linguistics.northwestern.edu/) as an Assistant Professor of Linguistics!
 
 ## Research Interests
 
@@ -14,7 +14,7 @@ In my recent work, I am examining how speakers of different languages came to ac
 
 In sum, my recent and ongoing work combines my interests in both psycholinguistics and syntax: it answers key syntactic questions about how movement and locality constraints are encoded in our linguistic knowledge, while also informing how such representations are shaped by variable linguistic input during language acquisition and in-the-moment linguistic adaptation.
 
-In addition to the lines of work described above, I have also done research on the syntactic and information structural accounts of island effects ([Lu, Thompson, and Yoshida 2020](https://doi.org/10.1162/ling_a_00343); [Kim, Li, and Lu 2023](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full); [Lu, Pan, and Degen, under review](https://ling.auf.net/lingbuzz/008431)), the coordination structure ([Lu 2021](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing); [Lu and Kim 2022](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/full); [Kim and Lu 2024](http://journal.kasell.or.kr/xml/39312/39312.pdf)), and theories of sentence processing ([Lu, Walenski, and Thompson 2018](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf); [Kim and Lu 2021](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002760375); [Kim and Lu 2022](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002812645); [Zhan, Chen, Levy, Lu, and Gibson 2023](https://doi.org/10.1111/cogs.13383)). 
+In addition to the lines of work described above, I have also done research on the syntactic and information structural accounts of island effects ([Lu, Thompson, and Yoshida 2020](https://doi.org/10.1162/ling_a_00343); [Kim, Li, and Lu 2023](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full); [Lu, Pan, and Degen, to appear](https://ling.auf.net/lingbuzz/008431)), the coordination structure ([Lu 2021](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing); [Lu and Kim 2022](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/full); [Kim and Lu 2024](http://journal.kasell.or.kr/xml/39312/39312.pdf)), and theories of sentence processing ([Lu, Walenski, and Thompson 2018](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf); [Kim and Lu 2021](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002760375); [Kim and Lu 2022](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002812645); [Zhan, Chen, Levy, Lu, and Gibson 2023](https://doi.org/10.1111/cogs.13383)). 
 
 Please see below for a comprehensive list of my research outputs. 
 
