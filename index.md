@@ -1,8 +1,6 @@
 ## About Me
 
-Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I'm currently a postdoctoral fellow at the University of Pennsylvania, working with Dr. Julie Anne Legate. I received my PhD in linguistics from Stanford in 2024, and my BA in linguistics and neuroscience from Northwestern University in 2019. I'm originally from [Beijing, China](https://www.google.com/maps/@39.9108518,116.3857858,18.51z?entry=ttu).
-
-In August 2025, I will join my alma mater [Northwestern University](https://linguistics.northwestern.edu/) as an Assistant Professor of Linguistics!
+Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I'm an assistant professor in the Department of Linguistics at Northwestern University. Before Northwestern, I was a postdoctoral fellow at the University of Pennsylvania, working with Julie Anne Legate and Charles Yang. I received my PhD in linguistics from Stanford in 2024, and my BA in linguistics and neuroscience from Northwestern University in 2019. I'm originally from [Beijing, China](https://www.google.com/maps/@39.9108518,116.3857858,18.51z?entry=ttu).
 
 ## Research Interests
 
