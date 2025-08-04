@@ -108,4 +108,4 @@ Paul Erdős -> Noga Alon -> Thomas L. Griffiths -> Noah D. Goodman -> Dan Lassit
 
 ## Contact
 
-jiayilu(at)sas(dot)upenn(dot)edu
+jiayi(dot)lu(at)northwestern(dot)edu
