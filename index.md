@@ -57,45 +57,45 @@ Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwest
 
 ## Conference Presentations
 
-Lu, J., Legate, J.A., and Yang, C. (2025). Examining the bridge/non-bridge distinction in Mandarin Chinese. Poster to be presented at the 2025 Society of Human Sentence Processing (HSP) conference, College Park, MD.  
+Lu, J., Legate, J.A., and Yang, C. (2025). Examining the bridge/non-bridge distinction in Mandarin Chinese. HSP 2025, College Park, MD.  
 
-Lu, J., Papineau, B., Jeong, S., Hernandez, A., Goodwin, E., and Anttila, A. (2025). [Interspeaker Variation in Copular Agreement with Disjoined Subjects: an Optimality-Theoretic Account](https://docs.google.com/presentation/d/11JCjNFmrYNREM1NsAZlAOC1NWXfQvVLw5T58ZmTLJp8/edit?usp=sharing). Talk presented at the 2025 Linguistics Society of America (LSA) annual conference, Philadelphia, PA.
+Lu, J., Papineau, B., Jeong, S., Hernandez, A., Goodwin, E., and Anttila, A. (2025). [Interspeaker Variation in Copular Agreement with Disjoined Subjects: an Optimality-Theoretic Account](https://docs.google.com/presentation/d/11JCjNFmrYNREM1NsAZlAOC1NWXfQvVLw5T58ZmTLJp8/edit?usp=sharing). LSA 2025, Philadelphia, PA.
 
-Lu, J., Merchan, J., Wang, L., & Degen, J. (2024) Can syntactic Log-odds ratio predict acceptability and satiation?. Poster presented at SCiL 2024. Irvine, CA.
+Lu, J., Merchan, J., Wang, L., & Degen, J. (2024) Can syntactic Log-odds ratio predict acceptability and satiation?. SCiL 2024. Irvine, CA.
 
-Merchan, J., Wang, L., Lu, J., and Degen, J. (2024). Can language model surprisal predict acceptability and satiation?. Poster presented at CAMP 2024. Stanford, CA.
+Merchan, J., Wang, L., Lu, J., and Degen, J. (2024). Can language model surprisal predict acceptability and satiation?. CAMP 2024. Stanford, CA.
 
-Yao, R., Lu, J., and Degen, J. (2024). Perceived interpretability predicts satiability for Complex-NP island but not Whether-island. Talk presented at CAMP 2024. Stanford, CA.
+Yao, R., Lu, J., and Degen, J. (2024). Perceived interpretability predicts satiability for Complex-NP island but not Whether-island. CAMP 2024. Stanford, CA.
 
-Lu, J., Pan, D., and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. Talk presented at LSA 2024. New York, NY.
+Lu, J., Pan, D., and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. LSA 2024. New York, NY.
 
-Pan, D., Lu, J., & Degen, J. (2023). Discourse Foregrounding Ameliorates Manner-of-Speaking Islands. Poster presented at HSP 2023. Pittsburgh, PA.
+Pan, D., Lu, J., & Degen, J. (2023). Discourse Foregrounding Ameliorates Manner-of-Speaking Islands. HSP 2023. Pittsburgh, PA.
 
-Lu, J., & Degen, J. (2023). Which islands satiate? A meta-analysis. Talk presented at CAMP 2023. Los Angeles, CA. 
+Lu, J., & Degen, J. (2023). Which islands satiate? A meta-analysis. CAMP 2023. Los Angeles, CA. 
 
-Pan, D., Lu, J., & Degen, J. (2023). Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding. Short talk to be presented at CAMP 2023. Los Angeles, CA.
+Pan, D., Lu, J., & Degen, J. (2023). Can Manner-of-Speaking Islands be Rescued Through Discourse Foregrounding. CAMP 2023. Los Angeles, CA.
 
-Lu, J., & Kim, N. (2023). [Coordination of Unlike Categories Creates Grammaticality Illusion](https://github.com/lu-jiayi/homepage/raw/master/LSA2023_coord_poster.pdf). Poster presented at LSA 2023. Denver, CO. 
+Lu, J., & Kim, N. (2023). [Coordination of Unlike Categories Creates Grammaticality Illusion](https://github.com/lu-jiayi/homepage/raw/master/LSA2023_coord_poster.pdf). LSA 2023. Denver, CO. 
 
-Lu, J., & Degen, J. (2023). [Which island-violating sentences satiate: A meta-analysis](https://stanford.box.com/s/xhjwoxsyq1was7revdg9g7ppwzlo1xso). Poster presented at LSA 2023. Denver, CO.
+Lu, J., & Degen, J. (2023). [Which island-violating sentences satiate: A meta-analysis](https://stanford.box.com/s/xhjwoxsyq1was7revdg9g7ppwzlo1xso). LSA 2023. Denver, CO.
 
-Lu, J., Wright, N., & Degen, J. (2022). Satiation effects generalize across island types. Poster presented at the 44th Annual Meeting of the Cognitive Science Society. Toronto, Canada.
+Lu, J., Wright, N., & Degen, J. (2022). Satiation effects generalize across island types. The 44th Annual Meeting of the Cognitive Science Society. Toronto, Canada.
 
-Wright, N., Lu, J., & Degen, J. (2022). [What is the representational target of island satiation effects?](https://virtual.oxfordabstracts.com/#/event/public/2562/submission/164). Poster presented at HSP 2022. Online. 
+Wright, N., Lu, J., & Degen, J. (2022). [What is the representational target of island satiation effects?](https://virtual.oxfordabstracts.com/#/event/public/2562/submission/164). HSP 2022. Online. 
 
-Kim, N., & Lu, J. (2022). [Maximizing parallelism in gapping: the case of argument structure mismatches](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf). Poster presented at LSA 2022. Washington, D.C.
+Kim, N., & Lu, J. (2022). [Maximizing parallelism in gapping: the case of argument structure mismatches](https://github.com/lu-jiayi/homepage/blob/master/lsa2022_poster.pdf). LSA 2022. Washington, D.C.
 
-Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by speaker-specific adaptation](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). Short talk presented at the 43rd Annual Meeting of the Cognitive Science Society. Online.
+Lu, J., Lassiter, D., & Degen, J. (2021). [Syntactic satiation is driven by speaker-specific adaptation](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). The 43rd Annual Meeting of the Cognitive Science Society. Online.
 
-Lu, J. (2021). [Reducing conjunct islands to adjunct islands: Evidence from Turkish](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k). Talk presented at LSA 2021. Online.
+Lu, J. (2021). [Reducing conjunct islands to adjunct islands: Evidence from Turkish](https://stanford.box.com/s/2ze12u2bgpv2sne91bfolgwaf0w7ef6k). LSA 2021. Online.
 
-Lu, J., & Degen, J. (2021). [Satiation as Rapid Adaptation to Ungrammatical Constructions](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t). Talk presented at LSA 2021. Online. 
+Lu, J., & Degen, J. (2021). [Satiation as Rapid Adaptation to Ungrammatical Constructions](https://stanford.box.com/s/oqkk1qief6eootsxdu3y2t5z9497bm5t). LSA 2021. Online. 
 
-Lu, J., Thompson, C.K., & Yoshida, M. (2018). Examining Argument-Adjunct Asymmetry of Island Effect in Mandarin Chinese. Poster presented at LSA 2019. New York City, New York.
+Lu, J., Thompson, C.K., & Yoshida, M. (2018). Examining Argument-Adjunct Asymmetry of Island Effect in Mandarin Chinese. LSA 2019. New York City, New York.
 
-Lu, J., Thompson, C.K., & Yoshida, M. (2018). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf). Poster presented at AMLaP 2018. Berlin, Germany.
+Lu, J., Thompson, C.K., & Yoshida, M. (2018). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf). AMLaP 2018. Berlin, Germany.
 
-Lu, J., Walenski, W., & Thompson, C.K. [EEG evidence for different syntactic expectations in parsing Chinese subject- and object-relative clauses](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf). Poster presented at SNL 2018. Quebec City, Canada.
+Lu, J., Walenski, W., & Thompson, C.K. [EEG evidence for different syntactic expectations in parsing Chinese subject- and object-relative clauses](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf). SNL 2018. Quebec City, Canada.
 
 ## Me not as a Linguist
 In my free time, I enjoy cooking, traveling, and watching movies. I'm also a collector of stamps, covers, and other ephemera. As a member of the American First Day Cover Society, I also create cachets (artworks on the left side of stamped covers) for first-day covers. I also love sending and receiving postcards: here is a [website](https://www.postcrossing.com/) that I use to exchange postcards with my fellow postal enthusiasts around the globe.    
@@ -108,4 +108,4 @@ Paul Erdős -> Noga Alon -> Thomas L. Griffiths -> Noah D. Goodman -> Dan Lassit
 
 ## Contact
 
-jiayi(dot)lu(at)northwestern(dot)edu
+jiayi.lu@northwestern.edu
