@@ -17,7 +17,7 @@ In addition to the lines of work described above, I have also done research on t
 Please see below for a comprehensive list of my research outputs. 
 
 ## Peer-reviewed Papers
-Lu, J.^, Pan, D.^, & Degen, J. (to appear) [Discourse Effects on the Manner-of-Speaking Island](https://ling.auf.net/lingbuzz/008431). Language.
+Lu, J.^, Pan, D.^, & Degen, J. (2025) [Discourse Effects on the Manner-of-Speaking Island](https://muse.jhu.edu/article/978271). Language 101(4): 627-659
 
 Lu, J.^, Merchan, J.^, Wang, L.^, & Degen, J. (2024) [Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?](https://openpublishing.library.umass.edu/scil/article/id/2125/). Society for Computation in Linguistics 7(1): 10–19
 
