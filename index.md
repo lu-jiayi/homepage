@@ -6,7 +6,7 @@ Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I'm an assistant p
 
 I'm a psycholinguist and a syntactician.
 
-The central question of my recent and ongoing research is how linguistic input leads to changes in a speaker's knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. Other related research outputs include Lu, Villata, and Sprouse (in prep), [Lu, Merchan, Wang, and Degen (2024)](https://openpublishing.library.umass.edu/scil/article/id/2125/), [Lu, Frank, and Degen (2024)](https://escholarship.org/uc/item/33t7f9s4), [Lu, Wright, and Degen (2022)](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%20(1).pdf), and [Lu, Lassiter and Degen (2021)](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf).
+The central question of my recent and ongoing research is how linguistic input leads to changes in a speaker's knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. Other related research outputs include Lu, Villata, and Sprouse (in prep), [Lu, Merchan, Wang, and Degen (2024)](https://openpublishing.library.umass.edu/scil/article/id/2125/), [Lu, Frank, and Degen (2024)](https://escholarship.org/uc/item/33t7f9s4), [Lu, Wright, and Degen (2022)](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%2520%281%29.pdf), and [Lu, Lassiter and Degen (2021)](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf).
 
 In my recent work, I am examining how speakers of different languages came to acquire different syntactic knowledge from input, and how the systematic syntactic variation can be explained by a combination of the architecture of grammar, the systematic variability in the input data children are exposed to, and a learning mechanism that allows generalization from observed structures to unobserved ones. Example works include Lu, Legate, and Yang ([2025](https://github.com/lu-jiayi/homepage/raw/master/bridge_abstract.pdf), in prep), and [Lu, Papineau, Jeong, Hernandez, Goodwin, and Anttila (2025)](https://docs.google.com/presentation/d/11JCjNFmrYNREM1NsAZlAOC1NWXfQvVLw5T58ZmTLJp8/edit?usp=sharing).
 
@@ -30,7 +30,7 @@ Zhan, M., Chen, S., Levy, R., Lu, J., \& Gibson, E. (2023). [Rational Sentence I
 
 Kim, N., Li, Z., \& Lu, J. (2023). [Island-Sensitivity of Two Different Interpretations of Why in Chinese](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full). Frontiers in Psychology 13:1059823.
 
-Lu, J., Wright, N., \& Degen, J. (2022). [Satiation effects generalize across island types](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%20(1).pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44).
+Lu, J., Wright, N., \& Degen, J. (2022). [Satiation effects generalize across island types](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%2520%281%29.pdf). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 44).
 
 Lu, J. \& Kim, N. (2022). [The Puzzle of Argument Structure Mismatch in Gapping](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/full). Frontiers in Psychology 13:907823.
 
@@ -46,7 +46,11 @@ Lu, J., Thompson, C.K., \& Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: 
 
 ## Unpublished manuscripts (available upon request)
 
-Lu, J. (under review). An Adjunction Analysis of Clause Chaining in Turkish.
+Lu, J., Villata, S., and Sprouse, J. (in prep) Probing the satiation of island effects. 
+
+Lu, J., and Kim, N. (under review). Adjunct Island Effect on Wh-Scrambling in Korean.
+
+Lu, J., Legate, J.A., and Yang, C. (under review). The Learnability of Bridge Effects.
 
 [An Adjunction Analysis of Clause Chaining in Turkish](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing). 2nd Qualifying Paper, Stanford University. Advised by Boris Harizanov, Vera Gribanova, Daniel Lassiter.
 
@@ -60,7 +64,7 @@ Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwest
 
 Ronai, E., Lu, J., Wang, A., and Feng, J. (2026). Evidence for adaptation in scalar implicature calculation. ELM 2026, Philadelphia, PA.
 
-Yang, X., Lu, J., (2026). Island satiates without change in backgroundedness. HSP 2026, Cambridge, MA. 
+Yang, X., Lu, J., (2026). Island satiates without change in backgroundedness. HSP 2026, Cambridge, MA.
 
 Lu, J., (2026). Availability of acceptable alternatives modulates satiation. LSA 2026, New Orleans, LA.
 
