@@ -18,7 +18,7 @@ Please see below for a comprehensive list of my research outputs.
 
 ## Peer-reviewed Papers
 
-Lu, J., Legate, J.A., and Yang, C. (accepted). The Learnability of Bridge Effects. Journal of Linguistics.
+Lu, J., Legate, J.A., and Yang, C. (in press). [The Learnability of Bridge Effects](https://ling.auf.net/lingbuzz/010005). Journal of Linguistics.
 
 Lu, J.^, Pan, D.^, and Degen, J. (2025) [Discourse Effects on the Manner-of-Speaking Island](https://doi.org/10.1353/lan.2025.a978271). Language 101(4): 627-659
 
@@ -46,21 +46,23 @@ Lu, J., Thompson, C.K., and Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands:
 
 ^: Equal contributions
 
-## Unpublished manuscripts (available upon request)
+## Unpublished manuscripts and work in the pipeline (available upon request)
 
-Lu, J., and Kim, N. (under review). Adjunct Island Effect on Wh-Scrambling in Korean.
+Yang, X., and Lu, J. (under review). Islands Satiate without Change in Backgroundedness. 
+
+Lu, J., and Kim, N. (resubmited). Adjunct Island Effect on Wh-Scrambling in Korean.
 
 Lu, J., Villata, S., and Sprouse, J. (in prep) Probing the satiation of island effects.
 
 Papineau, B., Lu, J., Jeong, S., Goodwin, E., and Anttila, A. (in prep). Copular Agreement with Disjoined Subjects in English
 
-[An Adjunction Analysis of Clause Chaining in Turkish](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing). 2nd Qualifying Paper, Stanford University. Advised by Boris Harizanov, Vera Gribanova, Daniel Lassiter.
+Lu, J., Yang, X., and Kim, N. (in prep) Reading time signature of the that-trace effect satiation: Evidence for an adaptation account.
 
-[Satiation as Rapid Syntactic Adaptation](https://drive.google.com/file/d/12MjqBQAQ8i1vr74vrn0e3w5hBTAUN7K4/view?usp=sharing). 1st Qualifying Paper, Stanford University. Advised by Judith Degen, Boris Harizanov, Daniel Lassiter.
+[An Adjunction Analysis of Clause Chaining in Turkish](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing). 2nd Qualifying Paper, Stanford University. 
 
-Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University. Adivsed by Masaya Yoshida, Shayne Sloggett.
+[Satiation as Rapid Syntactic Adaptation](https://drive.google.com/file/d/12MjqBQAQ8i1vr74vrn0e3w5hBTAUN7K4/view?usp=sharing). 1st Qualifying Paper, Stanford University. 
 
-^: Equal contributions
+Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwestern University. 
 
 ## Conference Presentations
 
