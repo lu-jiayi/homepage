@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Jiayi Lu (陆家屹，he/his), and I'm a linguist. I'm an assistant professor in the Department of Linguistics at Northwestern University, where I direct the [Syntax and Experimental Linguistics (SEAL) Lab](https://lu-jiayi.github.io/seallab/). Before Northwestern, I was a postdoctoral fellow from 2024-2025 at the University of Pennsylvania, working with Julie Anne Legate and Charles Yang. I received my PhD in linguistics from Stanford in 2024, and my BA in linguistics, neuroscience, and integrated science from Northwestern University in 2019. I'm originally from [Beijing, China](https://www.google.com/maps/@39.9108518,116.3857858,18.51z?entry=ttu).
+Hello! I'm Jiayi Lu (陆家屹，he/they), and I'm a linguist. I'm an assistant professor in the Department of Linguistics at Northwestern University, where I direct the [Syntax and Experimental Linguistics (SEAL) Lab](https://lu-jiayi.github.io/seallab/). Before Northwestern, I was a postdoctoral fellow from 2024-2025 at the University of Pennsylvania, working with Julie Anne Legate and Charles Yang. I received my PhD in linguistics from Stanford in 2024, and my BA in linguistics, neuroscience, and integrated science from Northwestern University in 2019. I'm originally from [Beijing, China](https://www.google.com/maps/@39.9108518,116.3857858,18.51z?entry=ttu).
 
 ## Research Interests
 
@@ -12,15 +12,15 @@ In my recent work, I have also examined how speakers of different languages came
 
 In sum, my recent and ongoing work combines my interests in both psycholinguistics and syntax: it answers key syntactic questions about how movement and locality constraints are encoded in our linguistic knowledge, while also informing how such representations are shaped by variable linguistic input during language acquisition and in-the-moment linguistic adaptation.
 
-In addition to the lines of work described above, I have also done research on the syntactic and information structural accounts of island effects ([Lu, Thompson, and Yoshida 2020](https://doi.org/10.1162/ling_a_00343); [Kim, Li, and Lu 2023](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full); [Lu, Pan, and Degen, 2025](https://doi.org/10.1353/lan.2025.a978271); Lu and Kim, in press), the coordination structure ([Lu 2021](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing); [Lu and Kim 2022](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/full); [Kim and Lu 2024](http://journal.kasell.or.kr/xml/39312/39312.pdf)), and theories of sentence processing ([Lu, Walenski, and Thompson 2018](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf); [Kim and Lu 2021](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002760375); [Kim and Lu 2022](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002812645); [Zhan, Chen, Levy, Lu, and Gibson 2023](https://doi.org/10.1111/cogs.13383)).
+In addition to the lines of work described above, I have also done research on the syntactic and information structural accounts of island effects ([Lu, Thompson, and Yoshida 2020](https://doi.org/10.1162/ling_a_00343); [Kim, Li, and Lu 2023](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1059823/full); [Lu, Pan, and Degen, 2025](https://doi.org/10.1353/lan.2025.a978271); [Lu and Kim, 2026](https://www.glossa-journal.org/article/id/27264/)), the coordination structure ([Lu 2021](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing); [Lu and Kim 2022](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.907823/full); [Kim and Lu 2024](http://journal.kasell.or.kr/xml/39312/39312.pdf)), and theories of sentence processing ([Lu, Walenski, and Thompson 2018](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf); [Kim and Lu 2021](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002760375); [Kim and Lu 2022](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002812645); [Zhan, Chen, Levy, Lu, and Gibson 2023](https://doi.org/10.1111/cogs.13383)).
 
 Please see below for a comprehensive list of my research outputs.
 
 ## Peer-reviewed Papers
 
-Lu, J., and Kim, N. (accepted). Adjunct Island Effect on Wh-Scrambling in Korean. Glossa
+Lu, J., and Kim, N. (2026). [Adjunct Island Effect on Wh-Scrambling in Korean](https://www.glossa-journal.org/article/id/27264/). Glossa: a journal of general linguistics 11(1)
 
-Lu, J., Legate, J.A., and Yang, C. (accepted). [The Learnability of Bridge Effects](https://ling.auf.net/lingbuzz/010005). Journal of Linguistics.
+Lu, J., Legate, J.A., and Yang, C. (2026). [The Learnability of Bridge Effects](https://www.cambridge.org/core/journals/journal-of-linguistics/article/learnability-of-bridge-effects/CC684E04D1479FB8CCC1F08924F5FAEC). Journal of Linguistics, 1-43.
 
 Lu, J.^, Pan, D.^, and Degen, J. (2025) [Discourse Effects on the Manner-of-Speaking Island](https://doi.org/10.1353/lan.2025.a978271). Language 101(4): 627-659
 
