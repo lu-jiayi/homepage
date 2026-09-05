@@ -6,7 +6,7 @@ Hello! I'm Jiayi Lu (陆家屹，he/they), and I'm a linguist. I'm an assistant 
 
 I'm a psycholinguist and a syntactician.
 
-The central question of my recent and ongoing research is how linguistic input leads to changes in a speaker's knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. Other work on syntactic adaptation and satiation include Lu, Villata, and Sprouse (in prep), [Lu, Merchan, Wang, and Degen (2024)](https://openpublishing.library.umass.edu/scil/article/id/2125/), [Lu, Frank, and Degen (2024)](https://escholarship.org/uc/item/33t7f9s4), [Lu, Wright, and Degen (2022)](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%252520%25281%2529.pdf), and [Lu, Lassiter and Degen (2021)](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). More recently, I am collaborating with my colleague Eszter Ronai to examine the phenomenon of scalar implicature adaptation, and its underlying mechanism. 
+The central question of my recent and ongoing research is how linguistic input leads to changes in a speaker's knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. Other work on syntactic adaptation and satiation include Lu, Villata, and Sprouse (in prep), [Lu, Merchan, Wang, and Degen (2024)](https://openpublishing.library.umass.edu/scil/article/id/2125/), [Lu, Frank, and Degen (2024)](https://escholarship.org/uc/item/33t7f9s4), [Lu, Wright, and Degen (2022)](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%252520%25281%2529.pdf), and [Lu, Lassiter and Degen (2021)](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). More recently, I am collaborating with my colleague Eszter Ronai to examine the phenomenon of scalar implicature adaptation, and its underlying mechanism.
 
 In my recent work, I have also examined how speakers of different languages came to acquire different syntactic knowledge from input, and how the systematic syntactic variation can be explained by a combination of the architecture of grammar, the systematic variability in the input data children are exposed to, and a learning mechanism that allows generalization from observed structures to unobserved ones. Example works include [Lu, Legate, and Yang (2026)](https://ling.auf.net/lingbuzz/010005), and [Lu, Papineau, Jeong, Hernandez, Goodwin, and Anttila (2025)](https://docs.google.com/presentation/d/11JCjNFmrYNREM1NsAZlAOC1NWXfQvVLw5T58ZmTLJp8/edit?usp=sharing).
 
@@ -52,11 +52,11 @@ Lu, J., Thompson, C.K., and Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands:
 
 Yang, X., and Lu, J. (under review). Islands Satiate without Change in Backgroundedness.
 
+Lu, J., Yang, X., and Kim, N. (under review) Reading time signature of the that-trace effect satiation: Evidence for an adaptation account.
+
 Lu, J., Villata, S., and Sprouse, J. (in prep) Probing the satiation of island effects.
 
 Papineau, B., Lu, J., Jeong, S., Goodwin, E., and Anttila, A. (in prep). Copular Agreement with Disjoined Subjects in English
-
-Lu, J., Yang, X., and Kim, N. (in prep) Reading time signature of the that-trace effect satiation: Evidence for an adaptation account.
 
 [An Adjunction Analysis of Clause Chaining in Turkish](https://drive.google.com/file/d/161Gf1ljyE4PlvMR395RzCXI8l_nvTzZZ/view?usp=sharing). 2nd Qualifying Paper, Stanford University.
 
