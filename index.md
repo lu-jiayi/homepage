@@ -66,6 +66,8 @@ Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwest
 
 ## Conference Presentations
 
+Lu, J., Ronai, E. (2026). Is implicature priming speaker-specific? A mouse-tracking study. XPrag.it 2026, Genoa, Italy.
+
 Ronai, E., Lu, J., Wang, A., and Feng, J. (2026). Evidence for adaptation in scalar implicature calculation. ELM 2026, Philadelphia, PA.
 
 Yang, X., Lu, J., (2026). Island satiates without change in backgroundedness. HSP 2026, Cambridge, MA.
