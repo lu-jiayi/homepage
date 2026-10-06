@@ -18,6 +18,8 @@ Please see below for a comprehensive list of my research outputs.
 
 ## Peer-reviewed Papers
 
+Yang, X., and Lu, J. (accepted) Islands Satiate without Change in Backgroundedness. Glossa: a journal of general linguistics
+
 Lu, J., and Kim, N. (2026). [Adjunct Island Effect on Wh-Scrambling in Korean](https://www.glossa-journal.org/article/id/27264/). Glossa: a journal of general linguistics 11(1)
 
 Lu, J., Legate, J.A., and Yang, C. (2026). [The Learnability of Bridge Effects](https://www.cambridge.org/core/journals/journal-of-linguistics/article/learnability-of-bridge-effects/CC684E04D1479FB8CCC1F08924F5FAEC). Journal of Linguistics, 1-43.
@@ -49,8 +51,6 @@ Lu, J., Thompson, C.K., and Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands:
 ^: Equal contributions
 
 ## Unpublished manuscripts and work in the pipeline (available upon request)
-
-Yang, X., and Lu, J. (under review). Islands Satiate without Change in Backgroundedness.
 
 Lu, J., Yang, X., and Kim, N. (under review) Reading time signature of the that-trace effect satiation: Evidence for an adaptation account.
 
