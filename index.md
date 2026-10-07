@@ -6,7 +6,7 @@ Hello! I'm Jiayi Lu (陆家屹，he/they), and I'm a linguist. I'm an assistant 
 
 I'm a psycholinguist and a syntactician.
 
-The central question of my recent and ongoing research is how linguistic input leads to changes in a speaker's knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. Other work on syntactic adaptation and satiation include [Yang and Lu (accepted)](https://github.com/lu-jiayi/homepage/raw/master/Yang_Lu_26.pdf), Lu, Villata, and Sprouse (in prep), Lu, Yang, and Kim (under review), [Lu, Merchan, Wang, and Degen (2024)](https://openpublishing.library.umass.edu/scil/article/id/2125/), [Lu, Frank, and Degen (2024)](https://escholarship.org/uc/item/33t7f9s4), [Lu, Wright, and Degen (2022)](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%252520%25281%2529.pdf), and [Lu, Lassiter and Degen (2021)](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). More recently, I am collaborating with my colleague Eszter Ronai to examine the phenomenon of scalar implicature adaptation, and its underlying mechanism.
+The central question of my recent and ongoing research is how linguistic input leads to changes in a speaker's knowledge and behavior (through acquisition or in-the-moment adaptation). In [my dissertation](https://www.researchgate.net/publication/381157061_Linguistic_Adaptation_to_Unacceptable_Sentences), I examined the underlying mechanism of the syntactic satiation effect: the effect whereby repeated exposure to degraded sentences increases speakers' acceptability ratings for such sentences. Other work on syntactic adaptation and satiation include [Yang and Lu (accepted)](https://ling.auf.net/lingbuzz/010399), Lu, Villata, and Sprouse (in prep), Lu, Yang, and Kim (under review), [Lu, Merchan, Wang, and Degen (2024)](https://openpublishing.library.umass.edu/scil/article/id/2125/), [Lu, Frank, and Degen (2024)](https://escholarship.org/uc/item/33t7f9s4), [Lu, Wright, and Degen (2022)](https://github.com/lu-jiayi/homepage/raw/master/cogsci_submission_camera_ready%252520%25281%2529.pdf), and [Lu, Lassiter and Degen (2021)](https://github.com/lu-jiayi/homepage/raw/master/cogsci21a-sub2245-cam-i9.pdf). More recently, I am collaborating with my colleague Eszter Ronai to examine the phenomenon of scalar implicature adaptation, and its underlying mechanism.
 
 In my recent work, I have also examined how speakers of different languages came to acquire different syntactic knowledge from input, and how the systematic syntactic variation can be explained by a combination of the architecture of grammar, the systematic variability in the input data children are exposed to, and a learning mechanism that allows generalization from observed structures to unobserved ones. Example works include [Lu, Legate, and Yang (2026)](https://ling.auf.net/lingbuzz/010005), and [Lu, Papineau, Jeong, Hernandez, Goodwin, and Anttila (2025)](https://docs.google.com/presentation/d/11JCjNFmrYNREM1NsAZlAOC1NWXfQvVLw5T58ZmTLJp8/edit?usp=sharing).
 
@@ -18,15 +18,15 @@ Please see below for a comprehensive list of my research outputs.
 
 ## Peer-reviewed Papers
 
-Yang, X., and Lu, J. (accepted) Islands Satiate without Change in Backgroundedness. Glossa: a journal of general linguistics
+Yang, X.^, and Lu, J. (accepted) [Islands Satiate without Change in Backgroundedness](https://ling.auf.net/lingbuzz/010399). Glossa: a journal of general linguistics
 
 Lu, J., and Kim, N. (2026). [Adjunct Island Effect on Wh-Scrambling in Korean](https://www.glossa-journal.org/article/id/27264/). Glossa: a journal of general linguistics 11(1)
 
 Lu, J., Legate, J.A., and Yang, C. (2026). [The Learnability of Bridge Effects](https://www.cambridge.org/core/journals/journal-of-linguistics/article/learnability-of-bridge-effects/CC684E04D1479FB8CCC1F08924F5FAEC). Journal of Linguistics, 1-43.
 
-Lu, J.^, Pan, D.^, and Degen, J. (2025) [Discourse Effects on the Manner-of-Speaking Island](https://doi.org/10.1353/lan.2025.a978271). Language 101(4): 627-659
+Lu, J.\*, Pan, D.\*, and Degen, J. (2025) [Discourse Effects on the Manner-of-Speaking Island](https://doi.org/10.1353/lan.2025.a978271). Language 101(4): 627-659
 
-Lu, J.^, Merchan, J.^, Wang, L.^, and Degen, J. (2024) [Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?](https://openpublishing.library.umass.edu/scil/article/id/2125/). Society for Computation in Linguistics 7(1): 10–19
+Lu, J.\*, Merchan, J.\*, Wang, L.\*, and Degen, J. (2024) [Can Syntactic Log-Odds Ratio Predict Acceptability and Satiation?](https://openpublishing.library.umass.edu/scil/article/id/2125/). Society for Computation in Linguistics 7(1): 10–19
 
 Lu, J., Frank, M. C., and Degen, J. (2024) [A Meta-analysis of Syntactic Satiation in Extraction from Islands](https://escholarship.org/uc/item/33t7f9s4). Glossa Psycholinguistics 3(1): X, pp. 1–33.
 
@@ -48,7 +48,9 @@ Lu, J., Lassiter, D., and Degen, J. (2021). [Syntactic satiation is driven by sp
 
 Lu, J., Thompson, C.K., and Yoshida, M. (2020). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://doi.org/10.1162/ling_a_00343). Linguistic Inquiry, 51(3), 611-623.
 
-^: Equal contributions
+\*: Equal contributions
+
+^: student authors
 
 ## Unpublished manuscripts and work in the pipeline (available upon request)
 
@@ -66,11 +68,17 @@ Who Wrote a Thesis that is on What: Wh-in-situ and Islands. BA Thesis, Northwest
 
 ## Conference Presentations
 
-Lu, J., Ronai, E. (2026). Is implicature priming speaker-specific? A mouse-tracking study. XPrag.it 2026, Genoa, Italy.
+Lu, J., Yang, X.^, and Kim, N. (2027). Real-time Satiation of the That-trace Effect: Evidence for the Adaptation Account of Satiation. LSA 2027, San Francisco, CA.
 
-Ronai, E., Lu, J., Wang, A., and Feng, J. (2026). Evidence for adaptation in scalar implicature calculation. ELM 2026, Philadelphia, PA.
+Dowling, R.^, Lu, J. (2027). Cataphoric Pronoun Suspends the Ban on \[-Human] Non-obligatory Control. LSA 2027, San Francisco, CA.
 
-Yang, X., Lu, J., (2026). Island satiates without change in backgroundedness. HSP 2026, Cambridge, MA.
+Wang, A.^, Davis, F., and Lu, J. (2027). Real-time Evidence for Good-enough Lexical Representation. LSA 2027, San Francisco, CA
+
+Lu, J.\*, Ronai, E.\* (2026). Is implicature priming speaker-specific? A mouse-tracking study. XPrag.it 2026, Genoa, Italy.
+
+Ronai, E.\*, Lu, J.\*, Wang, A.^, and Feng, J.^ (2026). Evidence for adaptation in scalar implicature calculation. ELM 2026, Philadelphia, PA.
+
+Yang, X.^, Lu, J., (2026). Island satiates without change in backgroundedness. HSP 2026, Cambridge, MA.
 
 Lu, J., (2026). Availability of acceptable alternatives modulates satiation. LSA 2026, New Orleans, LA.
 
@@ -84,7 +92,7 @@ Merchan, J., Wang, L., Lu, J., and Degen, J. (2024). Can language model surprisa
 
 Yao, R., Lu, J., and Degen, J. (2024). Perceived interpretability predicts satiability for Complex-NP island but not Whether-island. CAMP 2024. Stanford, CA.
 
-Lu, J., Pan, D., and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. LSA 2024. New York, NY.
+Lu, J.\*, Pan, D.\*, and Degen, J. (2024). Evidence for a discourse account of Manner-of-Speaking islands. LSA 2024. New York, NY.
 
 Pan, D., Lu, J., and Degen, J. (2023). Discourse Foregrounding Ameliorates Manner-of-Speaking Islands. HSP 2023. Pittsburgh, PA.
 
@@ -113,6 +121,14 @@ Lu, J., Thompson, C.K., and Yoshida, M. (2018). Examining Argument-Adjunct Asymm
 Lu, J., Thompson, C.K., and Yoshida, M. (2018). [Chinese Wh-in-Situ and Islands: A Formal Judgment Study](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/8/1599/files/2017/01/AMLaP2018-v1-1v3qtms.pdf). AMLaP 2018. Berlin, Germany.
 
 Lu, J., Walenski, W., and Thompson, C.K. [EEG evidence for different syntactic expectations in parsing Chinese subject- and object-relative clauses](https://github.com/lu-jiayi/Jiayi-Lu/blob/master/final-Chinese-Sentence-Processing_SNL2018_JL_MW_CT-V2-25lkw4h.pdf). SNL 2018. Quebec City, Canada.
+
+
+
+\*: Equal contributions
+
+^: student authors
+
+
 
 ## Me not as a Linguist
 
